@@ -6,4 +6,4 @@
 - 📫 How to reach me: Email: l.otavio9099@gmail.com
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lotaviods&layout=compact)](https://github.com/lotaviods/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lotaviods&layout=compact&theme=radical)](https://github.com/lotaviods/github-readme-stats)
