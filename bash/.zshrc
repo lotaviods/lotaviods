@@ -2,13 +2,13 @@
 # export PATH=$HOME/bin:/usr/local/bin:$PATH
 
 # Path to your oh-my-zsh installation.
-export ZSH="/home/fulltime/.oh-my-zsh"
+export ZSH="/home/lotaviods/.oh-my-zsh"
 
 # Set name of the theme to load --- if set to "random", it will
 # load a random theme each time oh-my-zsh is loaded, in which case,
 # to know which specific one was loaded, run: echo $RANDOM_THEME
 # See https://github.com/ohmyzsh/ohmyzsh/wiki/Themes
-ZSH_THEME="robbyrussell"
+ZSH_THEME="agnoster"
 
 # Set list of themes to pick from when loading at random
 # Setting this variable when ZSH_THEME=random will cause zsh to load
@@ -45,6 +45,8 @@ ZSH_THEME="robbyrussell"
 # ENABLE_CORRECTION="true"
 
 # Uncomment the following line to display red dots whilst waiting for completion.
+# Caution: this setting can cause issues with multiline prompts (zsh 5.7.1 and newer seem to work)
+# See https://github.com/ohmyzsh/ohmyzsh/issues/5765
 # COMPLETION_WAITING_DOTS="true"
 
 # Uncomment the following line if you want to disable marking untracked files
@@ -68,12 +70,13 @@ ZSH_THEME="robbyrussell"
 # Custom plugins may be added to $ZSH_CUSTOM/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
-plugins=(git)
+plugins=(
+git
+zsh-syntax-highlighting
+zsh-autosuggestions
+)
 
 source $ZSH/oh-my-zsh.sh
-
-export NVM_DIR="/home/fulltime/.nvm"
-[ -s "$NVM_DIR/nvm.sh" ] && . "$NVM_DIR/nvm.sh"  # This loads nvm
 
 # User configuration
 
@@ -96,21 +99,12 @@ export NVM_DIR="/home/fulltime/.nvm"
 # plugins, and themes. Aliases can be placed here, though oh-my-zsh
 # users are encouraged to define aliases within the ZSH_CUSTOM folder.
 # For a full list of active aliases, run `alias`.
-#
+
+export ANDROID_HOME="/usr/lib/android-sdk/"
+export PATH="${PATH}:${ANDROID_HOME}tools/:${ANDROID_HOME}platform-tools/"
+
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
-source /usr/share/powerlevel9k/powerlevel9k.zsh-theme
-source /usr/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
-
-alias adm="cd /home/fulltime/Documents/workspace/html/fullarmadm"
-alias api="cd /home/fulltime/Documents/workspace/html/fullarmapi"
-alias fc="cd /home/fulltime/Documents/workspace/html/fullcenter"
-alias dock="cd /home/fulltime/Documents/workspace/fullarmdock"
-alias config="sudo gedit ~/.zshrc"
-alias bash="sudo docker-compose exec workspace bash"
-alias down="sudo docker-compose down"
-alias up="sudo docker-compose up -d"
-alias source="source ~/.zshrc"
-
-
+#set keyboard layout 
+setxkbmap -model abnt2 -layout br
