@@ -8,8 +8,6 @@
 
 <details>
   <summary><b>My Github Stats</b></summary>
-    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lotaviods&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+     <img align="center" src="https://github-readme-stats.vercel.app/api?username=lotaviods&show_icons=true&hide_border=true&hide=issues&theme=onedark" alt="🦉Yoga Sakti's github stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lotaviods&layout=compact&theme=radical&exclude_repo=Yui-chan-BOT,Yui-chan-BOT-Mhank" alt="https://github.com/lotaviods/github-readme-stats">
 </details>
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lotaviods&layout=compact&theme=radical&exclude_repo=Yui-chan-BOT,Yui-chan-BOT-Mhank)](https://github.com/lotaviods/github-readme-stats)
