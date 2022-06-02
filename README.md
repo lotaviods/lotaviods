@@ -4,7 +4,7 @@
 - 💬 Ask me about ...
 - 📫 How to reach me: l.otavio9099@gmail.com
 - ❤️ Anime
-- 👨 20yo
+- 👨 21yo
 
 <details>
   <summary><b>My Github Stats</b></summary>
