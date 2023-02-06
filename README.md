@@ -1,6 +1,6 @@
 ### Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
-- 🌱 I’m currently learning Kotlin
+- 🌱 Developer - Kotlin, Java, JS, Python 
 - 💬 Ask me about ...
 - 📫 How to reach me: l.otavio9099@gmail.com
 - ❤️ Anime
