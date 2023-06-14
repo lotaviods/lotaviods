@@ -6,7 +6,7 @@
 
 
 ## <img src="./images/coffee.gif" width="29px"> About Me
-I'm Luiz Otávio, a 21 year old developer who loves anime and coffee. When I'm not coding, you can find me watching the latest anime releases or brewing a fresh cup of coffee.
+I'm Luiz Otávio, a 22 year old developer who loves anime and coffee. When I'm not coding, you can find me watching the latest anime releases or brewing a fresh cup of coffee.
 
 ## 🔨 Technical Skills:
 
