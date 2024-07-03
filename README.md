@@ -8,7 +8,7 @@
   <br>
   <i>
         I'm Luiz Otávio,<br>
-        a 22 year old developer who loves anime and coffee.<br>
+        a 23 year old developer who loves anime and coffee.<br>
         When I'm not coding, you can find me brewing a fresh cup of coffee.<br>
   </i><img src="./images/coffee.gif" width="29px"><br>
   <a href="https://www.linkedin.com/in/luiz-ot%C3%A1vio-da-silva-carvalho-406340191/">
