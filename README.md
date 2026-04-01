@@ -39,12 +39,3 @@
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/lotaviods)
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/lotaviods)
 [![Mac](https://img.shields.io/badge/MacOS-black?style=for-the-badge&logo=Apple)](https://github.com/lotaviods)
-
-<details open>
-  <summary><b>My Github Stats</b></summary>
-  <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=lotaviods&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide_border=true" alt="My Github Stats">
-    <br><br>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lotaviods&layout=compact&theme=radical&langs_count=6&hide_border=true" alt="My Top Languages">
-  </p>
-</details>
